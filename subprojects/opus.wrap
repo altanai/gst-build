@@ -1,6 +1,6 @@
 [wrap-git]
 directory=opus
-url=https://gitlab.xiph.org/xiph/opus.git
+url=https://gitlab.xiph.org/xiph/opus-ng.git
 revision=master
 
 [provide]
